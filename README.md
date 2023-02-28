@@ -2,7 +2,7 @@
 
 First steps with the Vulkan API.
 
-The code it's heavely based on the online available (Vulkan tutorial)[https://vulkan-tutorial.com/].
+The code it's heavely based on the online available [Vulkan tutorial](https://vulkan-tutorial.com/).
 
 ## Download
 ```sh
