@@ -11,16 +11,22 @@ git clone https://github.com/svavs/vulkan-basics.git
 
 ## Usage
 
+Enter into the folder containing the source code
 ```sh
-# Enter into the folder containing the source code
 cd vulkan-basics
+```
 
-# Compile the code
+Compile the code
+```sh
 make 
+```
 
-# Run the executable
+Run the executable
+```sh
 make test 
+```
 
-# Clean the compile output files
+Clean the compile output files
+```sh
 make clean
 ```
